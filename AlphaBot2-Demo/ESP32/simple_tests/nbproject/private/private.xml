@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>0</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/lib/Led/Led.cpp</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/lib/PCF8574/PCF8574.cpp</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/lib/Led/Led.h</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/lib/TRSensors/TRSensors.h</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/platformio.ini</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/src/main.cpp</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/lib/TRSensors/TRSensors.cpp</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/lib/PCF8574/PCF8574.h</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/lib/Propulsion/Propulsion.h</file>
+            <file>file:/home/ale/NetBeansProjects/alphabot2/simple_tests/lib/Propulsion/Propulsion.cpp</file>
+        </group>
+    </open-files>
+</project-private>

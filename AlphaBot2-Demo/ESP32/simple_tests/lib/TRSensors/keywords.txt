@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map TRSensors
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TRSensors	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+AnalogRead      KEYWORD2	
+calibrate	KEYWORD2
+readCalibrated	KEYWORD2
+readLine	KEYWORD2
+calibratedMin	KEYWORD2
+calibratedMax	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+QTR_EMITTERS_OFF	LITERAL1
+QTR_EMITTERS_ON	        LITERAL1
+QTR_EMITTERS_ON_AND_OFF	LITERAL1
+QTR_NO_EMITTER_PIN	LITERAL1
