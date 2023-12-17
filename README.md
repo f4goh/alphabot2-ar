@@ -25,18 +25,15 @@ Un bouton reset (A coté du connecteur USB type B) sur la carte ESP32 permet de 
 
 Le développement logiciel utilise principalement 3 bibliothèques :
 
-PCF8584 pour gérer
-- le joystick
-- le buzzer
-- les capteurs latéraux
+- PCF8584 (joystick, buzzer, les capteurs latéraux)
 
-Propulsion pour commander les 2 moteurs gauche et droit
+- Propulsion (2 moteurs gauche et droit)
 
-TRSensors pour les capteurs de suivi de piste
+- TRSensors (capteurs de suivi de piste)
 
 Le logiciel implanté dans le robot est nommé piste :
 
-AlphaBot2-Demo\ESP32\piste\
+https://github.com/f4goh/alphabot2-ar/tree/main/AlphaBot2-Demo/ESP32/piste
 
 Ce programme montre toutes les fonctionalités du robot
 
