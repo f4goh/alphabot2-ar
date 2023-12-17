@@ -39,6 +39,7 @@ Ce programme montre toutes les fonctionalités du robot
 
 la fonction void piste() est incomplète volontairement pour le challenge
 
+![piste](images/piste_robot.jpg "piste")
 
 
 
